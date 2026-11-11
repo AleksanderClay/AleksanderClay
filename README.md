@@ -16,7 +16,7 @@
 
 - 🚀 **Full-Stack & Mobile Developer** com mais de **7 anos de experiência**, construindo aplicações web e móveis de ponta a ponta — do levantamento de requisitos ao deploy em produção.
 - 🛠️ Especializado em **React**, **Vue.js**, **React Native**, **PHP (Laravel)** e **TypeScript**.
-- ☁️ Experiência com **AWS** (EC2, IAM, CloudTrail), **Supabase** e administração de bancos **PostgreSQL**, **Firebird** e **Redis**.
+- ☁️ Experiência com **AWS** e administração de bancos **PostgreSQL** e **Firebird**.
 - 📱 Autor de aplicações publicadas na **Google Play** e na **App Store**.
 - 💼 Disponível para projetos freelance ou contrato remoto.
 - 📫 Contato: **aleksanderclay@gmail.com**
